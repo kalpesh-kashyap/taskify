@@ -1,0 +1,9 @@
+flask
+python-dotenv
+psycopg2-binary
+flask-sqlalchemy
+flask-migrate
+pyjwt
+pika
+Pillow
+gunicorn
