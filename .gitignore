@@ -1,0 +1,4 @@
+**/uploads
+*/processed_files
+.git-credentials
+.env
